@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-08-14T21:02:17Z",
+  "synced_at": "2026-08-14T21:21:24Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -44,10 +44,6 @@
       "name": "05 People",
       "count": 0,
       "desc": "one note per person"
-    },
-    {
-      "name": "06 - CRYPTO BEGINNER VOCABULARY",
-      "count": 1
     },
     {
       "name": "06 Reference",
