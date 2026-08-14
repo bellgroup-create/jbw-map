@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-08-14T14:36:30Z",
+  "synced_at": "2026-08-14T19:40:54Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -71,7 +71,7 @@
     },
     {
       "name": "_META",
-      "count": 0,
+      "count": 1,
       "desc": "agent rules \u00b7 read first",
       "agent_zone": true
     },
