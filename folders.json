@@ -1,6 +1,73 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-08-14T02:29:34Z",
-  "folders": []
+  "synced_at": "2026-08-14T02:52:23Z",
+  "folders": [
+    {
+      "name": "00 Inbox",
+      "count": 0,
+      "desc": "new notes land here"
+    },
+    {
+      "name": "01 Businesses",
+      "count": 0,
+      "desc": "DD (Diamond Design) \u00b7 BGR (Bell Group Rentals)"
+    },
+    {
+      "name": "02 Projects",
+      "count": 0,
+      "desc": "anything with a finish line"
+    },
+    {
+      "name": "03 Life",
+      "count": 0,
+      "desc": "family \u00b7 health \u00b7 faith \u00b7 fishing"
+    },
+    {
+      "name": "04 Knowledge",
+      "count": 0,
+      "desc": "codes \u00b7 crypto \u00b7 trading \u00b7 AI (Artificial Intelligence)"
+    },
+    {
+      "name": "05 People",
+      "count": 0,
+      "desc": "one note per person"
+    },
+    {
+      "name": "06 Reference",
+      "count": 0,
+      "desc": "books \u00b7 courses \u00b7 clippings"
+    },
+    {
+      "name": "07 Journal",
+      "count": 0,
+      "desc": "daily notes, auto-created"
+    },
+    {
+      "name": "08 Templates",
+      "count": 0,
+      "desc": "reusable note skeletons"
+    },
+    {
+      "name": "09 Attachments",
+      "count": 0,
+      "desc": "images \u00b7 PDFs (Portable Document Format) \u00b7 plans"
+    },
+    {
+      "name": "10 Index Pages",
+      "count": 0,
+      "desc": "scan-many-pages-per-area"
+    },
+    {
+      "name": "99 Archive",
+      "count": 0,
+      "desc": "finished \u00b7 retired \u00b7 dead"
+    },
+    {
+      "name": "_META",
+      "count": 0,
+      "desc": "agent rules \u00b7 read first",
+      "agent_zone": true
+    }
+  ]
 }
