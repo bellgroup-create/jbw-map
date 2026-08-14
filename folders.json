@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-08-14T19:40:54Z",
+  "synced_at": "2026-08-14T20:31:16Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -31,13 +31,29 @@
     },
     {
       "name": "04 Knowledge",
-      "count": 0,
-      "desc": "codes \u00b7 crypto \u00b7 trading \u00b7 AI (Artificial Intelligence)"
+      "count": 330,
+      "desc": "codes \u00b7 crypto \u00b7 trading \u00b7 AI (Artificial Intelligence)",
+      "children": [
+        {
+          "name": "Trading",
+          "count": 330,
+          "children": [
+            {
+              "name": "Cyprx",
+              "count": 330
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "05 People",
       "count": 0,
       "desc": "one note per person"
+    },
+    {
+      "name": "06 - CRYPTO BEGINNER VOCABULARY",
+      "count": 1
     },
     {
       "name": "06 Reference",
