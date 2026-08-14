@@ -1,18 +1,12 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-08-14T21:01:21Z",
+  "synced_at": "2026-08-14T21:02:17Z",
   "folders": [
     {
       "name": "00 Inbox",
       "count": 1,
-      "desc": "new notes land here",
-      "children": [
-        {
-          "name": "twwst",
-          "count": 0
-        }
-      ]
+      "desc": "new notes land here"
     },
     {
       "name": "01 Businesses",
@@ -90,10 +84,6 @@
       "count": 1,
       "desc": "agent rules \u00b7 read first",
       "agent_zone": true
-    },
-    {
-      "name": "Jim Bells World",
-      "count": 1
     }
   ]
 }
