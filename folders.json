@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-08-14T21:21:24Z",
+  "synced_at": "2026-08-16T15:37:38Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -28,6 +28,16 @@
       "count": 329,
       "desc": "codes \u00b7 crypto \u00b7 trading \u00b7 AI (Artificial Intelligence)",
       "children": [
+        {
+          "name": "Obsidian",
+          "count": 0,
+          "children": [
+            {
+              "name": "Obsidian Wiki Template",
+              "count": 0
+            }
+          ]
+        },
         {
           "name": "Trading",
           "count": 329,
