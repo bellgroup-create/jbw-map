@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-08-16T15:42:39Z",
+  "synced_at": "2026-08-20T03:35:45Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -25,7 +25,7 @@
     },
     {
       "name": "04 Knowledge",
-      "count": 349,
+      "count": 351,
       "desc": "codes \u00b7 crypto \u00b7 trading \u00b7 AI (Artificial Intelligence)",
       "children": [
         {
@@ -40,11 +40,11 @@
         },
         {
           "name": "Trading",
-          "count": 329,
+          "count": 331,
           "children": [
             {
               "name": "Cyprx",
-              "count": 329
+              "count": 331
             }
           ]
         }
