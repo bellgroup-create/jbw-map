@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-09-13T19:27:47Z",
+  "synced_at": "2026-09-13T19:32:49Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -29,6 +29,10 @@
       "desc": "codes \u00b7 crypto \u00b7 trading \u00b7 AI (Artificial Intelligence)",
       "children": [
         {
+          "name": "Allie K.Miller AI training",
+          "count": 0
+        },
+        {
           "name": "Obsidian",
           "count": 20,
           "children": [
@@ -47,10 +51,6 @@
               "count": 335
             }
           ]
-        },
-        {
-          "name": "Untitled",
-          "count": 0
         }
       ]
     },
