@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-09-16T00:28:40Z",
+  "synced_at": "2026-09-16T00:53:44Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -97,7 +97,7 @@
     },
     {
       "name": "Revit Design Agent",
-      "count": 7,
+      "count": 8,
       "children": [
         {
           "name": "Agent Floor Designer",
@@ -121,7 +121,7 @@
         },
         {
           "name": "Portfolio Analysis",
-          "count": 1
+          "count": 2
         },
         {
           "name": "Room Placement",
