@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-09-13T19:32:49Z",
+  "synced_at": "2026-09-16T00:23:39Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -94,6 +94,44 @@
       "count": 1,
       "desc": "agent rules \u00b7 read first",
       "agent_zone": true
+    },
+    {
+      "name": "Revit Design Agent",
+      "count": 1,
+      "children": [
+        {
+          "name": "Design Rules",
+          "count": 0
+        },
+        {
+          "name": "Families and Types",
+          "count": 0
+        },
+        {
+          "name": "House Specs",
+          "count": 0
+        },
+        {
+          "name": "House Styles",
+          "count": 0
+        },
+        {
+          "name": "Portfolio Analysis",
+          "count": 0
+        },
+        {
+          "name": "Room Placement",
+          "count": 0
+        },
+        {
+          "name": "Room Sizing",
+          "count": 0
+        },
+        {
+          "name": "Scripts",
+          "count": 0
+        }
+      ]
     }
   ]
 }
