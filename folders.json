@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-09-16T01:23:50Z",
+  "synced_at": "2026-09-16T15:36:54Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -122,6 +122,16 @@
         {
           "name": "Portfolio Analysis",
           "count": 3
+        },
+        {
+          "name": "RevitExtensions",
+          "count": 0,
+          "children": [
+            {
+              "name": "DDDesign.extension",
+              "count": 0
+            }
+          ]
         },
         {
           "name": "Room Placement",
