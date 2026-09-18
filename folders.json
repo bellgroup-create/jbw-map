@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-09-16T15:36:54Z",
+  "synced_at": "2026-09-18T22:13:15Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -15,7 +15,7 @@
     },
     {
       "name": "02 Projects",
-      "count": 0,
+      "count": 1,
       "desc": "anything with a finish line"
     },
     {
