@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-09-18T22:28:20Z",
+  "synced_at": "2026-09-23T06:01:38Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -15,9 +15,19 @@
     },
     {
       "name": "02 Projects",
-      "count": 2,
+      "count": 21,
       "desc": "anything with a finish line",
       "children": [
+        {
+          "name": "AI business plan",
+          "count": 19,
+          "children": [
+            {
+              "name": "AI-OS",
+              "count": 19
+            }
+          ]
+        },
         {
           "name": "money-agent",
           "count": 1,
