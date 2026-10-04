@@ -1,7 +1,7 @@
 {
   "vault_name": "Jim Bell's World",
   "vault_path": "~/Documents/JimBellsWorld/",
-  "synced_at": "2026-10-04T00:12:20Z",
+  "synced_at": "2026-10-04T00:37:25Z",
   "folders": [
     {
       "name": "00 Inbox",
@@ -60,7 +60,13 @@
         },
         {
           "name": "Coin Research",
-          "count": 0
+          "count": 0,
+          "children": [
+            {
+              "name": "Dead Chart Coins",
+              "count": 0
+            }
+          ]
         },
         {
           "name": "Obsidian",
